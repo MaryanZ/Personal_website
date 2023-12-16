@@ -181,8 +181,8 @@
     width: 100%;
   
     /* Improving my own picture */
-    transform: scale(1.5);
-    padding-top: 8px;
+    transform: scale(3.5);
+    padding: 36px;
   }
   
   .about-me__info--title {
@@ -203,6 +203,7 @@
   
   .about-me__links {
     animation: fade-up 650ms 800ms backwards;
+    padding: 12px;
   }
   
   @keyframes fade-up {
